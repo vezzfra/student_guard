@@ -15,13 +15,13 @@ There are three report types:
 
 The concept of the app is quite simple: 
 
-   - The user after registering (with a university mail that is requested to be verified) to the service can decide from which campus he wants to receive push notifications;
-   - On the app opening the system gets the live location and then show the nearest reports;
-   - While adding a new report the app tries to retrieve the location information and automatically set the building the student is in. The classroom has to be added manually;
-   - When a new report is uploaded on the server a push notifications is sent to all the users registered to the interested campus and a pin is placed on the university map;
-   - User are able to react with 'likes' to reports in order to validate them. 
+   - The user after registering (with a university mail that is requested to be verified) to the service can decide from which campus he/she wants to receive push notifications;
+   - On the app opening, the system gets the live location and then shows the nearest reports;
+   - While adding a new report the app tries to retrieve the location information and it automatically sets the building the student is in. The classroom has to be added manually;
+   - When a new report is uploaded on the server a push notification is sent to all the users registered to the interested campus and a pin is placed on the university map;
+   - Users are able to react to reports with 'likes' in order to validate them. 
 
 
-The backend is based on the Parse Platform by Facebook (now dismissed) and uses AES cryptography for all the data uploaded and downloaded. 
+The backend is based on the Parse Platform by Facebook (now dismissed) and it uses AES cryptography for all the data uploaded and downloaded. 
 This app was on the App Store and on the Play Store from 2018 to 2019 when it was dismissed because universities started to add their own services to prevent thefts. 
 In the meantime the app on iOS was downloaded a total of 2K times and had a 4 stars reputation.  
