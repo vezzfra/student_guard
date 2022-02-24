@@ -1,7 +1,7 @@
 # StudentGuard
 An iOS and Android project to protect University students from thieves. 
 
-In 2018 the main problem everyone was talking about in the Milan's Universities were THIEVES. 
+In 2018 the main problem everyone was talking about in the Milan's Universities were thieves. 
 In collaboration with a student association I developed an app that permitted all the users to notify everyone else about recent thefts and about suspicious people. 
 There are three report types: 
 
