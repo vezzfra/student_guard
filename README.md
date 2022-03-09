@@ -25,3 +25,13 @@ The concept of the app is quite simple:
 The backend is based on the Parse Platform by Facebook (now dismissed) and it uses AES cryptography for all the data uploaded and downloaded. 
 This app was on the App Store and on the Play Store from 2018 to 2019 when it was dismissed because universities started to add their own services to prevent thefts. 
 In the meantime the app on iOS was downloaded a total of 2K times and had a 4 stars reputation.  
+
+This code includes: 
+
+   - Cryptography;
+   - Usage of internet protocols;
+   - Push notifications (<b>Server to device</b> and <b>device to device</b>);
+   - MapKit and live location;
+   - UIKit with Interface Builder;
+   - Google AdMob integration;
+   - Database access with Parse Platform (deployed on Heroku).
